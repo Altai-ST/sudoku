@@ -1,0 +1,25 @@
+
+
+.gray{
+  background-color: gray;
+  width: 100%;
+  height: 800px;
+}
+.sky{
+  background-color: #3FA0FF;
+  width: 100%;
+  height: 800px;
+}
+h1{
+  text-align: center;
+  color: #fff;
+  font-size: 40px;
+  padding: 0;
+  margin: 0;
+}
+
+html, body
+{
+  margin: 0;
+  padding: 0;
+}
